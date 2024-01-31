@@ -1,8 +1,9 @@
-# 1.- Tecnicas limpieza de datos
+# 1.- PREPROCESAMIENTO DE DATOS.
 
-## 1.1.- TECNICAS DE LIMPIEZA DE DATOS CON EXCEL.
+## 1.1.- Técnicas de limpieza de datos con Excel.
 
-# 2.- SQL
 
-## 1.1.- SQL (Structured Query Language)
+# 2.- GESTION DE BASES DE DATOS.
+
+## 2.1.- SQL (Structured Query Language)
 
