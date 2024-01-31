@@ -4,5 +4,5 @@
 
 # 2.- GESTION DE BASES DE DATOS.
 
-## 2.1.- [SQL (Structured Query Language)]()
+## 2.1.- [SQL (Structured Query Language)](https://github.com/CharlieScot/Inteligencia-Artificial/blob/main/MODULO_0/SQL%20TUTORIAL.pdf)
 
