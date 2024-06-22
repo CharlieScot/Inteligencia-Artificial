@@ -12,3 +12,5 @@
 
 ## 5.6.- [Ejercicio Fashion Mnist (CNN) - Colab](https://colab.research.google.com/drive/15SpZbsOZEG_H9ON3pO_boorCxTVmSU82)
 
+## 5.7.- [Ejercicios de Deep Learning - Colab](https://colab.research.google.com/drive/16DlQQGE0Mcw3U9wSnn4Ung3XnnzEl5XB)
+
